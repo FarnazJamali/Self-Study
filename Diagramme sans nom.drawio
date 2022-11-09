@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-11-07T18:03:49.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Zcp3ZfqcoS0011NobqZ7" version="20.5.3" type="github">
-  <diagram id="8rr9EYYALAZunuuwzkcw" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-11-09T09:17:59.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dbcjdhJGmMk1LCu5-ZLH" version="20.5.3" type="github">
+  <diagram id="8rr9EYYALAZunuuwzkcw" name="Register- otp-token logic">
     <mxGraphModel dx="782" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -37,22 +37,22 @@
         <mxCell id="p3LRdEzmDAd-YUCwYxpT-10" value="user clicks on link and sends back token to backend" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fb_priyZ4Rj98Tb3VyOp-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3LRdEzmDAd-YUCwYxpT-12" target="Fb_priyZ4Rj98Tb3VyOp-1">
+        <mxCell id="Fb_priyZ4Rj98Tb3VyOp-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3LRdEzmDAd-YUCwYxpT-12" target="Fb_priyZ4Rj98Tb3VyOp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3LRdEzmDAd-YUCwYxpT-12" value="if verified enters success page" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fb_priyZ4Rj98Tb3VyOp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p3LRdEzmDAd-YUCwYxpT-14" target="Fb_priyZ4Rj98Tb3VyOp-4">
+        <mxCell id="Fb_priyZ4Rj98Tb3VyOp-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p3LRdEzmDAd-YUCwYxpT-14" target="Fb_priyZ4Rj98Tb3VyOp-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p3LRdEzmDAd-YUCwYxpT-14" value="if not go to failure page" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fb_priyZ4Rj98Tb3VyOp-1" value="redirect to dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Fb_priyZ4Rj98Tb3VyOp-1" value="redirect to dashboard" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Fb_priyZ4Rj98Tb3VyOp-4" value="register" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Fb_priyZ4Rj98Tb3VyOp-4" value="register" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
