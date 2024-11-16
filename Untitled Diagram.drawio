@@ -127,7 +127,7 @@
         <mxCell id="27" value="Transportation" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="590" y="713" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ryKQHnpiaprWrgQYHMXZ-80" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;refinery&lt;/span&gt;&lt;/li&gt;&lt;li&gt;industry&lt;/li&gt;&lt;li&gt;mining&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="ryKQHnpiaprWrgQYHMXZ-80" value="&lt;ul&gt;&lt;li&gt;energy&lt;/li&gt;&lt;li&gt;powerline&lt;/li&gt;&lt;li&gt;powerplant&lt;/li&gt;&lt;li&gt;sewage&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="572" y="900" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ryKQHnpiaprWrgQYHMXZ-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="ryKQHnpiaprWrgQYHMXZ-80" parent="1" source="25">
